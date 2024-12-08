@@ -1,9 +1,6 @@
-**Description:**  
-The wasteland is endless. There are whispers. There are things that watch.
-
-**Notes:**  
-- Look around.  
-- Speak when you can.  
-- After you've heard them all, the void will come for you.  
-- It will come after you move.  
-- Don’t take too long.
+*In the wasteland, silence calls,
+Whispers behind crumbling walls.
+Eyes are watching, waiting near,
+Move too fast, and they’ll appear.
+Speak to them, but don’t delay—
+For in the void, you’ll fade away.*
